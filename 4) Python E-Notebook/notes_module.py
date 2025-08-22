@@ -1,4 +1,4 @@
-from datetime import datetime
+import datetime
 
 seprator = "-" * 40
 notes_file = "notes.txt"
@@ -35,4 +35,5 @@ def view_notes():
     if not content:
         print("No notes found.")
     else:
+
         print(content)

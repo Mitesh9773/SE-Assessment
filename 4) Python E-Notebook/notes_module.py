@@ -10,7 +10,7 @@ def ensure_notes_file():
     except:
         pass
 
-def add_note(name: str, title: str, description: str):
+def add_note(name, title, description):
     """Add a note to the notes.txt file"""
     ensure_notes_file()
     ts = str(datetime.now())
@@ -37,3 +37,4 @@ def view_notes():
     else:
 
         print(content)
+

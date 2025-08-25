@@ -10,6 +10,7 @@ E-Note Description : Php is good language.
                 Note Generator : Sujal
 ----------------------------------------
 2025-08-15 14:17:58.989879
-E-Note Title : Godadu
-E-Note Description : Bhargav like godadu.
+E-Note Title : Java
+E-Note Description : Hello world
                 Note Generator : Bhargav
+
